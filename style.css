@@ -863,3 +863,57 @@ a {
     width: 100%;
     z-index: 1000;
 }
+.pls{
+    position: absolute;
+    left: 150px;
+    top: 300px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 700px) {
+    .imageSquare {
+        position: absolute;
+        top: 235px;
+        left: 75px;
+    }
+    
+    .Square{
+        height: 150px;
+    }
+    
+    .contact {
+        position: absolute;
+        top : 185px;
+        left: 135px;
+    }
+    
+    .jobs {
+        position: absolute;
+        top : 235px;
+        left: 225px
+    }   
+    
+    .projects {
+        position: absolute;
+        top : 235px;
+        left: 5px;
+        font-size: 15px;
+    }
+    
+    .people {
+        position: absolute;
+        top : 260px;
+        left: 20px;
+    }
+    
+    .links {
+        position: absolute;
+        top : 400px;
+        left: 50px;
+        transform: rotate(90deg);
+        
+    }
+    
+}
+
