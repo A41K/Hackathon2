@@ -865,7 +865,7 @@ a {
 }
 .pls{
     position: absolute;
-    left: 150px;
+    left: 125px;
     top: 300px;
     font-weight: bold;
     font-size: 20px;
@@ -917,3 +917,9 @@ a {
     
 }
 
+.back{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 35px;
+}
